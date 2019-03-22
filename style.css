@@ -1,0 +1,27 @@
+.body {
+    background-color: gray;
+}
+
+.imput.search-imput {
+    display: flex;
+    align-items: flex-end;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-content: flex-end;
+    flex-flow: row;
+}
+
+
+.orange-button {
+    background-color: #f38b00;
+    border: 1px solid #f38b00;
+    width: 100px;
+    margin: 10px;
+    display: flex;
+    height: 25px
+}
+    
+    
