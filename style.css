@@ -21,7 +21,11 @@
     width: 100px;
     margin: 10px;
     display: flex;
-    height: 25px
+    height: 26px
+}
+
+#download {
+    height: 25px;
 }
     
     
